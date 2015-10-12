@@ -13,7 +13,7 @@ return array(
 		'parameters' => array(
 			'channel_id' => array(
 				'description' => 'The channel you wish to count individual authors entries from',
-				'example' => '{exp:authorcount channel="6"}
+				'example' => '{exp:authorcount channel_id="6"}
 	{name} ({count})
 {/exp:authorcount}
 

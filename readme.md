@@ -3,6 +3,8 @@ Core Purpose:
 
 Returns the number of entries for each author within a channel.
 
+channel_id is a required parameter
+
 Basic Usage Example:
 
 ```
@@ -14,4 +16,4 @@ Returns
 Andrew Armitage (4)
 Matt Shearing (7)
 
-channel_id is a required parameter
+We built this for our blog to not only track the number of entries per person. But to also use this to then filter the list to show only that members posts.
